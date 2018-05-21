@@ -1,1 +1,2 @@
 helloword
+function addName();  // jim‘s code 
