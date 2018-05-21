@@ -1,2 +1,3 @@
 helloword
 function updateName(); // mark’s code
+试试
