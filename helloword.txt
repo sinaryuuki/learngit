@@ -1,3 +1,10 @@
 helloword
+<<<<<<< HEAD
 function updateName(); // mark’s code
 试试
+=======
+
+function addName();  // jim‘s code 
+
+function updateName(); // mark’s code
+>>>>>>> 2bdd908d2fefad4dea093b76448ee689fa58a4f9
