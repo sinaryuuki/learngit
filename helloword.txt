@@ -1,2 +1,5 @@
 helloword
+
 function addName();  // jim‘s code 
+
+function updateName(); // mark’s code
